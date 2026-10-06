@@ -1,8 +1,9 @@
-姓名: 
-學號: 
-Favorite Food: 
-Sports: 
+姓名: Paris Tzou
+學號: 0001
+Favorite Food:  MoiChi
+Sports: Walking
 
 ![](image/image1.png)
 
-[https://dbb.ntou.edu.tw/](https://dbb.ntou.edu.tw/)
+[NTOU](https://www.ntou.edu.tw/)
+[海大生科] (https://dbb.ntou.edu.tw/)
